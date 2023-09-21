@@ -1,5 +1,14 @@
+> # Paused
+>
+> This project is paused, due to my current inability to test it completely. Please check out the [async repo](https://github.com/Arcader717/Async-DisOAuth2) 
+
+
 # DiscordOAuth2
 automatically follows through with the requests for Discord OAuth
+
+
+
+
 
 ***
 
