@@ -1,6 +1,6 @@
-> # Paused
+> # Discontinued
 >
-> This project is paused, due to my current inability to test it completely. Please check out the [async repo](https://github.com/Arcader717/Async-DisOAuth2) 
+> This project is paused, due to my current inability to test it completely. Please check out the [async repo](https://github.com/disoauth/Async-DisOAuth2) 
 
 
 # DiscordOAuth2
